@@ -1,1 +1,24 @@
-1
+
+  "urls": [
+       {
+           "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
+           "name": "官方线路①｜主选"
+        },
+        {
+            "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
+            "name": "官方线路②｜备选"
+        },          
+        {
+            "url": "http://肥猫.com",
+            "name": "盒子迷线路"
+        },  
+        {
+            "url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+            "name": "欧歌线路"
+        },
+       {
+            "url":"http://www.饭太硬.com/tv",
+            "name": "饭太硬线路"
+        }
+  ]
+}
