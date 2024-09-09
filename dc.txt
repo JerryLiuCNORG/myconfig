@@ -2,11 +2,11 @@
   "urls": [
        {
            "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
-           "name": "🚀官方线路①｜主选"
+           "name": "🚀官方线路①｜主用"
         },
        {
            "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
-           "name": "🚀官方线路②｜备选"
+           "name": "🚀官方线路②｜备用"
         }, 
        {
             "url": "http://ok321.top/ok",
