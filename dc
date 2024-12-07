@@ -2,23 +2,11 @@
   "urls": [
        {
            "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
-           "name": "🚀官方线路①｜主用"
+           "name": "🚀官方线路①｜已启用"
         },
        {
-           "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
-           "name": "🚀官方线路②｜备用"
-        }, 
-       {
-            "url": "http://ok321.top/ok",
-            "name": "OK线路"
-        },  
-       {
-            "url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-            "name": "欧歌线路"
-        },
-       {
-            "url":"http://www.饭太硬.com/tv",
-            "name": "饭太硬线路"
+           "url": "https://raw.gitcode.com/aiboxs/lm/raw/main/lm.json",
+           "name": "🚀官方线路②｜未启用"
         }
   ]
 }
