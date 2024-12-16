@@ -1,11 +1,11 @@
 {
   "urls": [
        {
-           "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
+           "url": "https://raw.gitcode.com/lmbox/lm01/raw/main/lm.json",
            "name": "🚀官方线路①｜已启用"
         },
        {
-           "url": "https://raw.gitcode.com/aiboxs/lm/raw/main/lm.json",
+           "url": "https://raw.gitcode.com/lmbox/lm02/raw/main/lm.json",
            "name": "🚀官方线路②｜未启用"
         }
   ]
