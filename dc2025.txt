@@ -5,20 +5,8 @@
            "name": "🚀官方线路①｜主用"
         },
        {
-           "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
+           "url": "https://raw.gitcode.com/lmbox/feimao/raw/main/cytx.json",
            "name": "🚀官方线路②｜备用"
-        }, 
-       {
-            "url": "https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
-            "name": "OK线路"
-        },  
-       {
-            "url":"https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
-            "name": "欧歌线路"
-        },
-       {
-            "url":"https://raw.gitcode.com/aiboxs/feimao/raw/main/cytx.json",
-            "name": "饭太硬线路"
         }
   ]
 }
