@@ -1,11 +1,11 @@
 {
   "urls": [
        {
-           "url": "https://ghgo.xyz/raw.githubusercontent.com/aiboxs/tv/refs/heads/main/feimao.json",
+           "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aiboxs/tv/refs/heads/main/feimao.json",
            "name": "🚀官方线路①｜主用"
         },
        {
-           "url": "https://ghgo.xyz/raw.githubusercontent.com/aiboxs/tv/refs/heads/main/feimao.json",
+           "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aiboxs/tv/refs/heads/main/feimao.json",
            "name": "🚀官方线路②｜备用"
         }
   ]
