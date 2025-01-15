@@ -1,12 +1,16 @@
 {
   "urls": [
        {
-           "url": "https://raw.gitcode.com/lmbox/lm01/raw/main/lm.json",
+           "url": "https://git.acwing.com/line/lmbox/-/raw/main/lm.json",
            "name": "🚀官方线路①｜已启用"
         },
        {
            "url": "https://git.acwing.com/line/tv/-/raw/main/lm.json",
            "name": "🚀官方线路②｜已启用"
+        },
+               {
+           "url": "https://raw.gitcode.com/lmbox/lm01/raw/main/lm.json",
+           "name": "🚀仅内部测试专用"
         }
   ]
 }
