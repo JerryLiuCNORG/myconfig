@@ -7,6 +7,10 @@
        {
            "url": "https://git.acwing.com/line/tv/-/raw/main/lm.json",
            "name": "🚀官方线路②｜已启用"
+        },
+        {
+           "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aiboxs/lmhz/refs/heads/main/lmby.json",
+           "name": "🚀官方线路③｜备用"
         }
   ]
 }
