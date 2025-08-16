@@ -1,31 +1,31 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752558800184/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06",
-  "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
-  "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
-  "lives": [
-    {
-      "name": "移动专享",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/%E7%A7%BB%E5%8A%A8%E4%B8%93%E4%BA%AB.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	{
-		"name": "ipv4专享",
-		"type": 0,
-		"playerType": 1,
-		"url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
-		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		"logo": "https://epg.112114.xyz/logo/{name}.png"
-	},
-	{
-		"name": "ipv6专享",
-		"type": 0,
-		"playerType": 1,
-		"url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt",
-		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		"logo": "https://epg.112114.xyz/logo/{name}.png"
-	}
-  ]
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752558800184/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06",
+	"wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
+	"logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
+	"lives": [
+		{
+			"name": "移动专享",
+			"type": 0,
+			"playerType": 1,
+			"url": "https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/%E7%A7%BB%E5%8A%A8%E4%B8%93%E4%BA%AB.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "ipv4专享",
+			"type": 0,
+			"playerType": 1,
+			"url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "ipv6专享",
+			"type": 0,
+			"playerType": 1,
+			"url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		}
+	]
 }
