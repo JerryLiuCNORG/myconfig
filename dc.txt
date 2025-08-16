@@ -1,12 +1,20 @@
 {
-  "urls": [
-       {
-           "url": "https://cdn.githubraw.com/aiboxs/tv/refs/heads/main/feimao.json",
-           "name": "🚀官方线路①｜主用"
-        },
-       {
-           "url": "http://www.饭太硬.com/tv",
-           "name": "🚀官方线路②｜备用"
-        }
-  ]
+	"urls": [
+		{
+			"url": "",
+			"name": "🔔如遇异常：重置App换线路"
+		},
+		{
+			"url": "http://www.饭太硬.com/tv",
+			"name": "🚀官方线路-1｜主用"
+		},
+		{
+			"url": "https://xn--tkh-mf3g9f.v.nxog.top/m//tv/",
+			"name": "🚀官方线路-2｜备用"
+		},
+		{
+			"url": "https://cdn.githubraw.com/aiboxs/tv/refs/heads/main/feimao.json",
+			"name": "🚀官方线路-3｜备用"
+		}
+	]
 }
