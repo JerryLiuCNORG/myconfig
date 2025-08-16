@@ -5,12 +5,12 @@
            "name": "🔔如遇异常：重置App换线路"
        },      
        {
-           "url": "http://suo.im/6Vf8L",
-           "name": "🚀官方线路①｜主用"
+           "url": "https://gitee.com/liuyuwei1989/tv/raw/master/lm.json",
+           "name": "🚀官方线路-1｜主用"
        },
        {
            "url": "https://git.acwing.com/line/tv/-/raw/main/lm.json",
-           "name": "🚀官方线路②｜备用"
+           "name": "🚀官方线路-2｜备用"
        }
   ]
 }
