@@ -7,18 +7,15 @@ jobs:
   repo-sync:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
     - uses: actions/checkout@v4
-      with:
-        persist-credentials: false
     - name: Set up SSH key
       run: |
         mkdir -p ~/.ssh
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan gitea.com >> ~/.ssh/known_hosts
-        
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
     - name: Clone Gitea repo via SSH
       run: |
         git clone git@gitea.com:jerryliucn/tv.git gitea-tv
@@ -26,6 +23,9 @@ jobs:
         mv -f gitea-tv/* ./
     - name: Commit and push to GitHub
       run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/JerryLiuCNORG/myconfig.git
         git add .
         git commit -m "Sync from Gitea repo" || echo "Nothing to commit"
-        git push origin HEAD:${GITHUB_REF#refs/heads/}        
+        git push origin
