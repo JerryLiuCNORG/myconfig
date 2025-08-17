@@ -18,8 +18,6 @@ jobs:
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan gitea.com >> ~/.ssh/known_hosts
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
     - name: Clone Gitea repo via SSH
       run: |
@@ -30,5 +28,4 @@ jobs:
       run: |
         git add .
         git commit -m "Sync from Gitea repo" || echo "Nothing to commit"
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git push origin HEAD:${GITHUB_REF#refs/heads/}        
