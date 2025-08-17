@@ -14,8 +14,6 @@ jobs:
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan gitea.com >> ~/.ssh/known_hosts
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
     - name: Clone Gitea repo via SSH
       run: |
         git clone git@gitea.com:jerryliucn/tv.git gitea-tv
